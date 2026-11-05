@@ -1,0 +1,46 @@
+# See http://help.github.com/ignore-files/ for more regarding ignoring files.
+
+# Compiled output
+/dist/
+/tmp/
+/out-tsc/
+/bazel-out/
+
+# Dependencies
+/node_modules/
+*.pid
+*.seed
+*.pid.lock
+
+# Profiling files
+*.cpuprofile
+*.heapsapshot
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.cproject
+.launch
+.settings/
+*.suo
+.vscode/
+*.ntvs
+*.njsproj
+*.sln
+*.sw?
+
+# Testing
+/coverage/
+.nyc_output/
+
+# Miscellaneous
+/.angular/
+.sass-cache/
+hs_err_pid*
+.eslintcache
+.stylelintcache
+
+# System Files
+.DS_Store
+Thumbs.db
